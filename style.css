@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;    
+}
+header p{
+    color: #ffffff;
+}
+header input{
+    width: 250px;
+    height: 35px;
+    background-color:#484242;
+    border-radius: 10px;
+    text-align: center;
+}
+header button{
+    width: 100px;
+    height: 35px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.nav-wrapper{
+    background-color: black;
+}
