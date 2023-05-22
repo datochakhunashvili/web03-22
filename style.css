@@ -196,3 +196,50 @@ header button{
     border-radius: 20px;
     margin-top: 5px;
 }
+.iphone-h2{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 70px;
+}
+.iPhone-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 50px;
+}
+.iPhone-wrapper-1 .new{
+    color: #bf4800;
+}
+.iPhone-wrapper-1 p{
+    color: rgb(68 59 59);
+}
+.iPhone-wrapper-1 .from-from{
+    color: rgb(68 59 59);
+    margin-top: 15px;
+}
+.iPhone-wrapper-1 button{
+    width: 67px;
+    height: 40px;
+    border-radius: 24px;
+    background-color: #73aee9;
+    border: none;
+    color: white;
+    font-weight: 500;
+}
+.iPhone-wrapper-1.Learn-more{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #06c;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.iPhone-wrapper-1 .arrow-right{
+    width: 5px;
+    height: 10px;
+    color: #06c;
+}
+.iPhone-wrapper-1 .Learn-more :hover{
+    text-decoration: underlin
+}    
