@@ -4,18 +4,18 @@
     box-sizing: border-box;
 }
 .container{
-    max-width: 1024px;
+    max-width: 1536px;
     margin: 0 auto;
 }
-
 header{
-    position: fixed;
     width: 100%;
     background-color: black;
 }
 .header-wrapper{
     display: flex;
-    justify-content: space-between;    
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;   
 }
 header p{
     color: #ffffff;
@@ -34,5 +34,43 @@ header button{
     border-radius: 10px;
 }
 .nav-wrapper{
-    background-color: black;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;
+}
+.ipone-full div{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.ipone-full .iPhone-14{
+    font-size: 20px;
+    font-weight: 600;
+}
+.ipone-full .Wonderfuul{
+    font-size: 30px;
+    font-weight: 800;
+}
+.ipone-full button{
+    width: 67px;
+    height: 40px;
+    border-radius: 24px;
+    background-color: #73aee9;
+    border: none;
+    color: white;
+    font-weight: 500;
+}
+.ipone-full .Learn-more{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #06c;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.ipone-full .Learn-more :hover{
+    text-decoration: underline;
 }
