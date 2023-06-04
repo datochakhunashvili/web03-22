@@ -226,6 +226,7 @@ header button{
     border: none;
     color: white;
     font-weight: 500;
+    margin: 10px;
 }
 .iPhone-wrapper-1.Learn-more{
     font-size: 20px;
@@ -242,4 +243,45 @@ header button{
 }
 .iPhone-wrapper-1 .Learn-more :hover{
     text-decoration: underlin
-}    
+} 
+.wrapper-Super-Retina{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;   
+}
+.wrapper-Super-Retina img{
+    margin-top: 50px;
+}
+.wrapper-Super-Retina :first-child img{
+    margin-top: 45px;
+}
+.shop{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+} 
+.shop a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+.shop a:hover{
+    text-decoration: underline;
+}
+.wrapper-price-credit{
+    width: 100%;
+    background-color: #fbfbfd;
+}
+.wrapper-price-credit h2{
+    margin-top: 100px;
+    padding: 60px;
+    text-align: center;
+    font-size: 50px;
+}
+.price-credit{
+    width: 455px;
+    height: 455px;
+    border: black ;
+    background-color: #ffffff;
+}
+
+
