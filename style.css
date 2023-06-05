@@ -277,11 +277,153 @@ header button{
     text-align: center;
     font-size: 50px;
 }
-.price-credit{
-    width: 455px;
-    height: 455px;
-    border: black ;
-    background-color: #ffffff;
+.wrapper-price-credit-1{
+    display: flex;
+    justify-content: space-evenly;
 }
+.price-credit-1{
+    width: 25%;
+    height: 455px;
+    background-color: #ffffff;
+    padding: 70px;
+}
+.price-credit-1 div {
+    text-align: center;
+}
+.price-credit-1 span{
+    font-weight: 800;
+}
+.price-credit-1 a{
+    text-decoration: none;
+}
+.price-credit-1 a:hover{
+    text-decoration: underline;
+}
+.price-credit-1 img{
+    width: 324px;
+    margin-top: 50px;
+}
+.magsafee{
+    background-color: #fbfbfd;
+    padding: 100px;
+}
+.magsafee h2{
+    text-align: center;
+    font-size: 50px;
+}
+.magsafe{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    padding: 100px;
+}
+.magsafe-1{
+    margin-top: 150px;
+}
+.magsafe-1 div{
+    text-align: center;
+}
+.magsafe-1 h3{
+    font-size: 40px;
+}
+.magsafe-1 p{
+    font-size: 20px;
+    width: 276px;
+}
+.magsafe-1 a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.magsafe-1 a:hover{
+    text-decoration: underline;
+}
+.iso-16{
+    background-color: #ffffff;
+    margin-top: 60px;
+    padding: 100px;
+}
+.iso-16-1{
+    text-align: center;
+}
+.iso-16-1 h3{
+    font-size: 40px;
+}
+.iso-16-1 p{
+    font-size: 20px;
+}
+.iso-16-1 a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.iso-16-1 a:hover{
+    text-decoration: underline;
+}
+.iso-16-2{
+    text-align: center;
+}
+.switching-wrapper{
+    display: flex;
+}
+.switching-wrapper{
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+.switching-1{
+    width: 50%;
+    border: 1px solid white;
+    background-color: white;
+    padding-top: 50px;
+}
+.switching-1 div{
+    margin-top: 60px;
+
+}
+.switching-1 h3{
+    font-size: 50px;
+}
+.switching-1 a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.switching-1 a:hover{
+    text-decoration: underline;
+}
+.switching-2{
+    margin-left: 10px;
+    width: 50%;
+}
+.switching-imagee{
+    position: relative;
+}
+.switching-imagee img{
+    width: 100%;
+}
+.switching-3{
+    position: absolute;
+    margin-top: -631px;
+    margin-left: 10%;
+}
+.switching-3 div{
+    text-align: center;
+}
+.switching-3 h3{
+    font-size: 50px;
+    color: #ffffff;
+}
+.switching-3 button{
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
 
 
