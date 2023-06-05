@@ -419,6 +419,40 @@ header button{
     border-radius: 20px;
     margin-top: 20px;
 }
+.introducing{
+    background-color: #fbfbfd;
+    padding: 100px;
+}
+.introducing-1{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    background-color: #ffffff;
+}
+.introducing-2 div{
+    margin-top: 10px;
+}
+.introducing-2{
+    margin-top: 100px;
+    width: 40%;
+}
+.introducing-2 h2{
+    font-size: 50px;
+}
+.introducing-2 p{
+    font-size: 20px;
+}
+.introducing-2 a{
+    font-size: 20px;
+    text-decoration:none;
+}
+.introducing-2 a:hover{
+    text-decoration: underline;
+}
+.introducing-3{
+    width: 60%;
+    margin-top: 60px;
+}
 
 
 
